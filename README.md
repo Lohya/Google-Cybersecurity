@@ -1,4 +1,4 @@
-                                                                              GOOGLE CYBERSECURITY
+                                                                     GOOGLE CYBERSECURITY
 
   Started with the Aim to gain more knowledge on how cybersecurity works in real-time and the trends and the rise in the technology. By completing this course I think i will be able to apply
   for the Junior security and the cyber security analyst jobs. 
